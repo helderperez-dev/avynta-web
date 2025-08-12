@@ -1,0 +1,247 @@
+{
+  "name": "Español",
+  "flag": "🇪🇸",
+  "content": {
+    "nav": {
+      "home": "Inicio",
+      "solutions": "Soluciones",
+      "about": "Acerca de",
+      "contact": "Contacto",
+      "getStarted": "Comenzar"
+    },
+    "hero": {
+      "title": "Transforma Tu Negocio con",
+      "titleHighlight": "Inteligencia Artificial",
+      "subtitle": "Creamos soluciones que trabajan para ti mientras duermes. Chatbots que atienden clientes, sistemas que venden solos y automatizaciones que hacen crecer tu empresa.",
+      "cta": "Comenzar Ahora",
+      "learnMore": "Ver Soluciones",
+      "techStackTitle": "Nuestro Stack Tecnológico"
+    },
+    "solutions": {
+      "title": "Soluciones que",
+      "titleHighlight": "Marcan la Diferencia",
+      "subtitle": "Soluciones que generan resultados reales para tu negocio. Menos trabajo manual, más crecimiento.",
+      "aiAutomation": {
+        "title": "Automatización con IA",
+        "description": "Soluciones de automatización inteligente que optimizan tus procesos empresariales y reducen el trabajo manual hasta un 75%"
+      },
+      "webDevelopment": {
+        "title": "Desarrollo Web",
+        "description": "Aplicaciones web modernas y responsivas construidas con tecnologías de vanguardia para rendimiento y experiencia de usuario óptimos"
+      },
+      "mobileApps": {
+        "title": "Apps Móviles",
+        "description": "Aplicaciones móviles nativas y multiplataforma que involucran usuarios e impulsan el crecimiento empresarial"
+      },
+      "dataAnalytics": {
+        "title": "Análisis de Datos",
+        "description": "Transforma tus datos en insights accionables con herramientas avanzadas de análisis y visualización"
+      },
+      "aiAgents": {
+        "title": "Agentes de IA",
+        "description": "Automatización inteligente que aprende y se adapta a tus procesos empresariales"
+      },
+      "webApps": {
+        "title": "Aplicaciones Web",
+        "description": "Soluciones web personalizadas construidas con tecnologías modernas y mejores prácticas"
+      },
+      "iot": {
+        "title": "Soluciones IoT",
+        "description": "Dispositivos conectados y sistemas inteligentes para uso industrial y comercial"
+      },
+      "automation": {
+        "title": "Automatización de Procesos",
+        "description": "Optimiza flujos de trabajo y elimina tareas repetitivas con automatización inteligente"
+      },
+      "consulting": {
+        "title": "Consultoría en IA",
+        "description": "Orientación estratégica para implementar soluciones de IA alineadas con tus objetivos empresariales"
+      }
+    },
+    "process": {
+      "title": "Nuestro",
+      "titleHighlight": "Proceso",
+      "subtitle": "Desde el concepto hasta la implementación, seguimos una metodología probada",
+      "steps": {
+        "discovery": {
+          "title": "Descubrimiento",
+          "description": "Analizamos tus procesos actuales e identificamos oportunidades de automatización"
+        },
+        "design": {
+          "title": "Diseño",
+          "description": "Creamos soluciones personalizadas que se integran perfectamente con tus sistemas existentes"
+        },
+        "development": {
+          "title": "Desarrollo",
+          "description": "Construimos soluciones robustas y escalables usando tecnologías de vanguardia"
+        },
+        "deployment": {
+          "title": "Implementación",
+          "description": "Lanzamos tu solución con pruebas exhaustivas y soporte completo"
+        }
+      }
+    },
+    "about": {
+      "title": "Por Qué Elegir",
+      "titleHighlight": "Avynta",
+      "subtitle": "No somos solo desarrolladores – somos socios en la transformación empresarial",
+      "features": {
+        "expertise": {
+          "title": "Experiencia Técnica Profunda",
+          "description": "Nuestro equipo combina años de experiencia en IA, automatización y desarrollo de software empresarial"
+        },
+        "results": {
+          "title": "Resultados Comprobados",
+          "description": "Hemos ayudado a empresas a reducir costos en un 40% y aumentar la eficiencia en un 60% a través de automatización inteligente"
+        },
+        "support": {
+          "title": "Soporte Continuo",
+          "description": "Desde la consulta inicial hasta el mantenimiento post-implementación, estamos contigo en cada paso"
+        }
+      }
+    },
+    "testimonials": {
+      "badge": "Historias de Éxito",
+      "title": "Lo que Dicen",
+      "titleHighlight": "Nuestros Clientes",
+      "subtitle": "Comentarios reales de empresas que han transformado sus operaciones con Avynta",
+      "testimonial1": {
+        "content": "\"La solución de automatización con IA de Avynta redujo nuestro tiempo de procesamiento de documentos en un 75%. El ROI fue evidente en el primer mes de implementación.\"",
+        "name": "Maria Rodriguez",
+        "role": "Directora de Operaciones"
+      },
+      "testimonial2": {
+        "content": "\"La aplicación móvil que Avynta desarrolló para nosotros aumentó la participación de los clientes en un 300%. Su equipo entendió nuestra visión perfectamente.\"",
+        "name": "João Silva",
+        "role": "CEO"
+      },
+      "testimonial3": {
+        "content": "\"Trabajar con Avynta fue perfecto. Su solución de chatbot con IA transformó nuestro servicio al cliente y redujo los tiempos de respuesta a segundos.\"",
+        "name": "Ana Martins",
+        "role": "CTO"
+      }
+    },
+    "casestudies": {
+      "title": "Historias de",
+      "titleHighlight": "Éxito",
+      "subtitle": "Estudios de caso detallados que muestran cómo hemos ayudado a las empresas a lograr resultados extraordinarios",
+      "claurity": {
+        "name": "Claurity",
+        "category": "Análisis de Contratos con IA",
+        "metric1": "Precisión",
+        "metric2": "Reducción de Tiempo",
+        "description": "Plataforma de análisis de contratos con IA que identifica automáticamente cláusulas clave, riesgos y problemas de cumplimiento, transformando los procesos de revisión de documentos legales."
+      },
+      "snapnia": {
+        "name": "Snapnia",
+        "category": "Generador de Ideas de Negocio con IA",
+        "metric1": "Tasa de Satisfacción",
+        "metric2": "Calificación Promedio",
+        "description": "Plataforma con IA que genera ideas innovadoras de negocio, valida el potencial del mercado y proporciona asistencia integral de planificación empresarial para emprendedores."
+      },
+      "grodesk": {
+        "name": "Grodesk",
+        "category": "Piloto Automático WhatsApp con IA",
+        "metric1": "Disponibilidad",
+        "metric2": "Resolución de Consultas",
+        "description": "Sistema inteligente de automatización de WhatsApp que maneja consultas de clientes, procesa pedidos y proporciona soporte instantáneo usando IA conversacional avanzada."
+      },
+      "stolytics": {
+        "name": "Stolytics",
+        "category": "Análisis de Visión Computacional con IA",
+        "metric1": "Tasa de Detección",
+        "metric2": "Aumento de Ventas",
+        "description": "IA de visión computacional que analiza comportamientos de compra de clientes, rastrea interacciones con productos y genera análisis accionables para optimización de tiendas."
+      },
+      "ecommerce": {
+        "name": "Plataforma E-commerce",
+        "category": "Transformación de Cadena Minorista",
+        "metric1": "Tiempo Ahorrado",
+        "metric2": "ROI",
+        "description": "Sistema integral de gestión de inventario y recomendaciones de clientes con IA que revolucionó las operaciones minoristas e impulsó un crecimiento significativo de ingresos."
+      },
+      "fintech": {
+        "name": "Automatización FinTech",
+        "category": "IA para Servicios Financieros",
+        "metric1": "Precisión",
+        "metric2": "Reducción de Costos",
+        "description": "Solución de procesamiento de documentos con IA que automatizó las revisiones de solicitudes de préstamos, reduciendo drásticamente el tiempo de procesamiento manteniendo altos estándares de precisión."
+      }
+    },
+    "team": {
+      "title": "Conoce a Nuestro",
+      "titleHighlight": "Equipo Experto",
+      "subtitle": "Profesionales experimentados dedicados a ofrecer soluciones innovadoras de IA y automatización",
+      "helder": {
+        "name": "Helder Perez",
+        "role": "CEO",
+        "description": "Emprendedor serial y pionero en IA con más de 15 años construyendo soluciones inteligentes de automatización, especializado en aprendizaje automático, optimización de procesos empresariales e implementaciones de tecnología transformadora."
+      },
+      "leandro": {
+        "name": "Leandro Passos",
+        "role": "CTO",
+        "description": "Líder técnico y arquitecto de software experto especializado en sistemas de IA/ML, arquitecturas distribuidas y soluciones escalables en la nube con profunda experiencia en Python, microservicios y liderazgo de equipos de ingeniería para entregar soluciones innovadoras."
+      },
+      "safira": {
+        "name": "Safira Braga",
+        "role": "CRO",
+        "description": "Líder empresarial estratégica impulsando el crecimiento de ingresos a través de consultoría en soluciones de IA, gestión del éxito del cliente y expansión del mercado con experiencia en ventas empresariales y desarrollo de alianzas."
+      },
+      "remote": {
+        "name": "Especialistas Remotos",
+        "role": "Equipo Global",
+        "description": "Y otros especialistas trabajando remotamente desde Estados Unidos, Canadá, Portugal y otros países de LATAM."
+      }
+    },
+    "locations": {
+      "title": "Dónde",
+      "titleHighlight": "Estamos",
+      "subtitle": "Presencia global con oficinas en Brasil y Portugal, sirviendo clientes en todo el mundo",
+      "brazil": {
+        "title": "Sede Brasil",
+        "subtitle": "São Paulo, SP - Hub de Innovación",
+        "address": "Av. 9 de Julho, 3575 - Anhangabaú, Jundiaí - SP, 13208-056",
+        "hours": "Lun-Vie: 9:00 - 18:00 (BRT)",
+        "services": {
+          "title": "Servicios Principales",
+          "ai": "Desarrollo IA",
+          "web": "Aplicaciones Web",
+          "mobile": "Apps Móviles",
+          "consulting": "Consultoría"
+        }
+      },
+      "portugal": {
+        "title": "Oficina Portugal",
+        "subtitle": "Lisboa - Hub Europeo",
+        "address": "Rua Augusta, 123 - Baixa, Lisboa - 1100-048",
+        "hours": "Lun-Vie: 9:00 - 18:00 (WET)",
+        "services": {
+          "title": "Servicios Técnicos y Europeos",
+          "ai": "Desarrollo IA",
+          "software": "Desarrollo Software",
+          "partnerships": "Alianzas UE",
+          "gdpr": "Cumplimiento GDPR"
+        }
+      }
+    },
+    "contact": {
+      "title": "Ponte en",
+      "titleHighlight": "Contacto",
+      "subtitle": "¿Listo para transformar tu negocio? Hablemos sobre tu proyecto y exploremos cómo podemos ayudarte a alcanzar tus objetivos.",
+      "name": "Tu Nombre",
+      "email": "Tu Email",
+      "message": "Cuéntanos sobre tu proyecto...",
+      "send": "Enviar Mensaje",
+      "phone": "+1 (555) 123-4567",
+      "emailAddress": "hello@avynta.com",
+      "address": "123 Innovation Drive, Tech Valley, CA 94000"
+    },
+    "footer": {
+      "description": "Transformando empresas a través de soluciones de IA y automatización.",
+      "quickLinks": "Enlaces Rápidos",
+      "contact": "Contacto",
+      "followUs": "Síguenos",
+      "copyright": " 2024 Avynta. Todos los derechos reservados."
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Avynta - AI & Software Automation Solutions",
+    "short_name": "Avynta",
+    "description": "AI and Software Company specialized in developing Automations, AI Agents, Web Apps, Mobile Apps, IoT and more",
+    "icons": [
+        {
+            "src": "/static/web-app-manifest-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "/static/web-app-manifest-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ],
+    "theme_color": "#2563eb",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "start_url": "/",
+    "scope": "/",
+    "orientation": "portrait-primary"
+}

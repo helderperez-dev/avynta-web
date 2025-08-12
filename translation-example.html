@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Translation System Examples</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="languages.js"></script>
+</head>
+<body class="bg-gray-100 p-8">
+    <div class="max-w-4xl mx-auto bg-white p-8 rounded-lg shadow-lg">
+        <h1 class="text-3xl font-bold mb-8 text-center">Translation System Examples</h1>
+        
+        <!-- Language Selector -->
+        <div class="mb-8 text-center">
+            <label for="language-selector" class="block text-sm font-medium text-gray-700 mb-2">
+                Choose Language:
+            </label>
+            <select id="language-selector" class="border border-gray-300 rounded-md px-3 py-2">
+                <!-- Options will be populated by JavaScript -->
+            </select>
+        </div>
+
+        <div class="space-y-8">
+            <!-- Method 1: Using <t> tags with key attribute -->
+            <div class="bg-blue-50 p-6 rounded-lg">
+                <h2 class="text-xl font-semibold mb-4 text-blue-800">Method 1: &lt;t&gt; Tags</h2>
+                <div class="space-y-2">
+                    <p><strong>Navigation:</strong> <t key="nav.home">Home</t> | <t key="nav.solutions">Solutions</t> | <t key="nav.about">About</t></p>
+                    <h3 class="text-lg"><t key="hero.title">Transform Your Business with</t> <span class="text-blue-600"><t key="hero.titleHighlight">AI & Automation</t></span></h3>
+                    <p><t key="hero.subtitle">We specialize in AI Agents, Web Apps, Mobile Apps, and IoT solutions...</t></p>
+                </div>
+            </div>
+
+            <!-- Method 2: Using data-t attribute -->
+            <div class="bg-green-50 p-6 rounded-lg">
+                <h2 class="text-xl font-semibold mb-4 text-green-800">Method 2: data-t Attribute</h2>
+                <div class="space-y-2">
+                    <p><strong>Solutions:</strong> <span data-t="solutions.aiAgents.title">AI Agents</span></p>
+                    <p data-t="solutions.aiAgents.description">Intelligent automation that learns and adapts...</p>
+                    <button class="bg-green-600 text-white px-4 py-2 rounded" data-t="hero.cta">Start Your Transformation</button>
+                </div>
+            </div>
+
+            <!-- Method 3: Using data-translate attribute (existing method) -->
+            <div class="bg-purple-50 p-6 rounded-lg">
+                <h2 class="text-xl font-semibold mb-4 text-purple-800">Method 3: data-translate Attribute</h2>
+                <div class="space-y-2">
+                    <h3 data-translate="about.title">Why Choose</h3>
+                    <p data-translate="about.subtitle">We're not just developers – we're business transformation partners</p>
+                </div>
+            </div>
+
+            <!-- Method 4: Form elements with placeholders -->
+            <div class="bg-yellow-50 p-6 rounded-lg">
+                <h2 class="text-xl font-semibold mb-4 text-yellow-800">Method 4: Form Elements</h2>
+                <form class="space-y-4">
+                    <input type="text" data-t="contact.form.name" class="w-full border border-gray-300 rounded-md px-3 py-2" placeholder="Full Name">
+                    <input type="email" data-t="contact.form.email" class="w-full border border-gray-300 rounded-md px-3 py-2" placeholder="Email Address">
+                    <textarea data-t="contact.form.message" class="w-full border border-gray-300 rounded-md px-3 py-2 h-24" placeholder="Tell us about your project"></textarea>
+                    <button type="submit" data-t="contact.form.submit" class="bg-yellow-600 text-white px-6 py-2 rounded">Send Message</button>
+                </form>
+            </div>
+
+            <!-- Method 5: Complex nested translations -->
+            <div class="bg-red-50 p-6 rounded-lg">
+                <h2 class="text-xl font-semibold mb-4 text-red-800">Method 5: Complex Nested Keys</h2>
+                <div class="grid md:grid-cols-2 gap-4">
+                    <div class="bg-white p-4 rounded">
+                        <h4 class="font-semibold"><t key="about.features.expertise.title">Deep Technical Expertise</t></h4>
+                        <p class="text-sm text-gray-600"><t key="about.features.expertise.description">Our team combines years of experience...</t></p>
+                    </div>
+                    <div class="bg-white p-4 rounded">
+                        <h4 class="font-semibold"><t key="about.features.results.title">Proven Results</t></h4>
+                        <p class="text-sm text-gray-600"><t key="about.features.results.description">We've helped businesses reduce costs...</t></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Usage Instructions -->
+        <div class="mt-12 bg-gray-50 p-6 rounded-lg">
+            <h2 class="text-xl font-semibold mb-4">How to Use</h2>
+            <div class="space-y-3 text-sm">
+                <div>
+                    <strong>1. &lt;t key="translation.key"&gt;Default Text&lt;/t&gt;</strong>
+                    <p class="text-gray-600 ml-4">Use custom &lt;t&gt; tags with a key attribute. The default text will be replaced with the translation.</p>
+                </div>
+                <div>
+                    <strong>2. &lt;span data-t="translation.key"&gt;Default Text&lt;/span&gt;</strong>
+                    <p class="text-gray-600 ml-4">Use data-t attribute on any element. Works with any HTML tag.</p>
+                </div>
+                <div>
+                    <strong>3. &lt;input data-t="translation.key" placeholder="Default"&gt;</strong>
+                    <p class="text-gray-600 ml-4">For form elements, the translation will be used as placeholder text.</p>
+                </div>
+                <div>
+                    <strong>4. &lt;button data-t="translation.key"&gt;Default&lt;/button&gt;</strong>
+                    <p class="text-gray-600 ml-4">Button text will be replaced with the translation.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,247 @@
+{
+  "name": "English",
+  "flag": "🇺🇸",
+  "content": {
+    "nav": {
+      "home": "Home",
+      "solutions": "Solutions",
+      "about": "About",
+      "contact": "Contact",
+      "getStarted": "Get Started"
+    },
+    "hero": {
+      "title": "Transform Your Business with",
+      "titleHighlight": "Artificial Intelligence",
+      "subtitle": "We create solutions that work for you while you sleep. Chatbots that serve customers, systems that sell themselves, and automations that make your business grow.",
+      "cta": "Get Started Now",
+      "learnMore": "View Solutions",
+      "techStackTitle": "Our Technology Stack"
+    },
+    "solutions": {
+      "title": "Solutions that",
+      "titleHighlight": "Make a Difference",
+      "subtitle": "Solutions that deliver real results for your business. Less manual work, more growth.",
+      "aiAutomation": {
+        "title": "AI Automation",
+        "description": "Intelligent automation solutions that streamline your business processes and reduce manual work by up to 75%"
+      },
+      "webDevelopment": {
+        "title": "Web Development",
+        "description": "Modern, responsive web applications built with cutting-edge technologies for optimal performance and user experience"
+      },
+      "mobileApps": {
+        "title": "Mobile Apps",
+        "description": "Native and cross-platform mobile applications that engage users, drive business growth, and provide a seamless user experience"
+      },
+      "dataAnalytics": {
+        "title": "Data Analytics",
+        "description": "Transform your data into actionable insights with advanced analytics and visualization tools"
+      },
+      "aiAgents": {
+        "title": "AI Agents",
+        "description": "Intelligent automation that learns and adapts to your business processes"
+      },
+      "webApps": {
+        "title": "Web Applications",
+        "description": "Custom web solutions built with modern technologies and best practices"
+      },
+      "iot": {
+        "title": "IoT Solutions",
+        "description": "Connected devices and smart systems for industrial and commercial use"
+      },
+      "automation": {
+        "title": "Process Automation",
+        "description": "Streamline workflows and eliminate repetitive tasks with intelligent automation"
+      },
+      "consulting": {
+        "title": "AI Consulting",
+        "description": "Strategic guidance to implement AI solutions aligned with your business goals"
+      }
+    },
+    "process": {
+      "title": "Our",
+      "titleHighlight": "Process",
+      "subtitle": "From concept to deployment, we follow a proven methodology",
+      "steps": {
+        "discovery": {
+          "title": "Discovery",
+          "description": "We analyze your current processes and identify automation opportunities"
+        },
+        "design": {
+          "title": "Design",
+          "description": "Create tailored solutions that integrate seamlessly with your existing systems"
+        },
+        "development": {
+          "title": "Development",
+          "description": "Build robust, scalable solutions using cutting-edge technologies"
+        },
+        "deployment": {
+          "title": "Deployment",
+          "description": "Launch your solution with comprehensive testing and support"
+        }
+      }
+    },
+    "about": {
+      "title": "Why Choose",
+      "titleHighlight": "Avynta",
+      "subtitle": "We're not just developers – we're business transformation partners",
+      "features": {
+        "expertise": {
+          "title": "Deep Technical Expertise",
+          "description": "Our team combines years of experience in AI, automation, and enterprise software development"
+        },
+        "results": {
+          "title": "Proven Results",
+          "description": "We've helped businesses reduce costs by 40% and increase efficiency by 60% through smart automation"
+        },
+        "support": {
+          "title": "Ongoing Support",
+          "description": "From initial consultation to post-deployment maintenance, we're with you every step of the way"
+        }
+      }
+    },
+    "testimonials": {
+      "badge": "Client Success Stories",
+      "title": "What Our",
+      "titleHighlight": "Clients Say",
+      "subtitle": "Real feedback from companies that have transformed their operations with Avynta",
+      "testimonial1": {
+        "content": "\"Avynta's AI automation solution reduced our document processing time by 75%. The ROI was evident within the first month of implementation.\"",
+        "name": "Maria Rodriguez",
+        "role": "Operations Director"
+      },
+      "testimonial2": {
+        "content": "\"The mobile app Avynta developed for us increased customer engagement by 300%. Their team understood our vision perfectly.\"",
+        "name": "João Silva",
+        "role": "CEO"
+      },
+      "testimonial3": {
+        "content": "\"Working with Avynta was seamless. Their AI chatbot solution transformed our customer service and reduced response times to seconds.\"",
+        "name": "Ana Martins",
+        "role": "CTO"
+      }
+    },
+    "casestudies": {
+      "title": "Success",
+      "titleHighlight": "Stories",
+      "subtitle": "Detailed case studies showing how we've helped businesses achieve remarkable results",
+      "claurity": {
+        "name": "Claurity",
+        "category": "AI Contract Analysis",
+        "metric1": "Accuracy",
+        "metric2": "Time Reduction",
+        "description": "AI-powered contract analysis platform that automatically identifies key clauses, risks, and compliance issues, transforming legal document review processes."
+      },
+      "snapnia": {
+        "name": "Snapnia",
+        "category": "AI Business Idea Generator",
+        "metric1": "Satisfaction Rate",
+        "metric2": "Average Rating",
+        "description": "AI-powered platform that generates innovative business ideas, validates market potential, and provides comprehensive business planning assistance for entrepreneurs."
+      },
+      "grodesk": {
+        "name": "Grodesk",
+        "category": "AI WhatsApp Autopilot",
+        "metric1": "Availability",
+        "metric2": "Query Resolution",
+        "description": "Intelligent WhatsApp automation system that handles customer inquiries, processes orders, and provides instant support using advanced conversational AI."
+      },
+      "stolytics": {
+        "name": "Stolytics",
+        "category": "AI Computer Vision Analytics",
+        "metric1": "Detection Rate",
+        "metric2": "Sales Increase",
+        "description": "Computer vision AI that analyzes customer shopping behaviors, tracks product interactions, and generates actionable retail analytics for store optimization."
+      },
+      "ecommerce": {
+        "name": "E-commerce Platform",
+        "category": "Retail Chain Transformation",
+        "metric1": "Time Saved",
+        "metric2": "ROI",
+        "description": "Comprehensive AI-powered inventory management and customer recommendation system that revolutionized retail operations and drove significant revenue growth."
+      },
+      "fintech": {
+        "name": "FinTech Automation",
+        "category": "Financial Services AI",
+        "metric1": "Accuracy",
+        "metric2": "Cost Reduction",
+        "description": "AI document processing solution that automated loan application reviews, dramatically reducing processing time while maintaining high accuracy standards."
+      }
+    },
+    "team": {
+      "title": "Meet Our",
+      "titleHighlight": "Expert Team",
+      "subtitle": "Experienced professionals dedicated to delivering innovative AI and automation solutions",
+      "helder": {
+        "name": "Helder Perez",
+        "role": "CEO",
+        "description": "Serial entrepreneur and AI pioneer with 15+ years building intelligent automation solutions, specializing in machine learning, business process optimization, and transformative technology implementations."
+      },
+      "leandro": {
+        "name": "Leandro Passos",
+        "role": "CTO",
+        "description": "Technical leader and expert software architect specializing in AI/ML systems, distributed architectures, and scalable cloud solutions with deep expertise in Python, microservices, and leading engineering teams to deliver innovative solutions."
+      },
+      "safira": {
+        "name": "Safira Braga",
+        "role": "CRO",
+        "description": "Strategic business leader driving revenue growth through AI solution consulting, client success management, and market expansion with expertise in enterprise sales and partnership development."
+      },
+      "remote": {
+        "name": "Remote Specialists",
+        "role": "Global Team",
+        "description": "And other specialists working remotely from the US, Canada, Portugal and other LATAM countries."
+      }
+    },
+    "locations": {
+      "title": "Where We",
+      "titleHighlight": "Are",
+      "subtitle": "Global presence with offices in Brazil and Portugal, serving clients worldwide",
+      "brazil": {
+        "title": "Brazil Headquarters",
+        "subtitle": "São Paulo, SP - Innovation Hub",
+        "address": "Av. 9 de Julho, 3575 - Anhangabaú, Jundiaí - SP, 13208-056",
+        "hours": "Mon-Fri: 9:00 AM - 6:00 PM (BRT)",
+        "services": {
+          "title": "Core Services",
+          "ai": "AI Development",
+          "web": "Web Apps",
+          "mobile": "Mobile Apps",
+          "consulting": "Consulting"
+        }
+      },
+      "portugal": {
+        "title": "Portugal Office",
+        "subtitle": "Lisboa - European Hub",
+        "address": "Rua Augusta, 123 - Baixa, Lisboa - 1100-048",
+        "hours": "Mon-Fri: 9:00 AM - 6:00 PM (WET)",
+        "services": {
+          "title": "Technical & European Services",
+          "ai": "AI Development",
+          "software": "Software Dev",
+          "partnerships": "EU Partnerships",
+          "gdpr": "GDPR Compliance"
+        }
+      }
+    },
+    "contact": {
+      "title": "Get in",
+      "titleHighlight": "Touch",
+      "subtitle": "Ready to transform your business? Let's discuss your project and explore how we can help you achieve your goals.",
+      "name": "Your Name",
+      "email": "Your Email",
+      "message": "Tell us about your project...",
+      "send": "Send Message",
+      "phone": "+1 (555) 123-4567",
+      "emailAddress": "hello@avynta.com",
+      "address": "123 Innovation Drive, Tech Valley, CA 94000"
+    },
+    "footer": {
+      "description": "Transforming businesses through AI and automation solutions.",
+      "quickLinks": "Quick Links",
+      "contact": "Contact",
+      "followUs": "Follow Us",
+      "copyright": " 2024 Avynta. All rights reserved."
+    }
+  }
+}

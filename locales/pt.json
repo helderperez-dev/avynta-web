@@ -10,17 +10,22 @@
       "getStarted": "Começar"
     },
     "hero": {
+      "badge": "Soluções de Automação Inteligente",
       "title": "Transforme Seu Negócio com",
-      "titleHighlight": "Inteligência Artificial",
-      "subtitle": "Criamos soluções que trabalham para você enquanto dorme. Chatbots que atendem clientes, sistemas que vendem sozinhos e automações que fazem sua empresa crescer.",
+      "animated_text": "Inteligência Artificial",
+      "subtitle": "Criamos soluções que trabalham para você enquanto dorme. Agentes de IA que atendem clientes, sistemas que vendem sozinhos e automações que fazem sua empresa crescer.",
+      "benefit1": "Automação até 75%",
+      "benefit2": "100% Seguro",
+      "benefit3": "Suporte 24/7",
       "cta": "Começar Agora",
-      "learnMore": "Ver Soluções",
-      "techStackTitle": "Nossa Stack Tecnológica"
+      "viewSolutions": "Ver Soluções",
+      "projectsCount": "Resultados Comprovados"
     },
     "solutions": {
-      "title": "Soluções que",
-      "titleHighlight": "Fazem a Diferença",
-      "subtitle": "Soluções que geram resultados reais para o seu negócio. Menos trabalho manual, mais crescimento.",
+      "badge": "Nossas Soluções",
+      "title": "Soluções que Fazem a Diferença",
+      "titleHighlight": "Empresarial Real",
+      "subtitle": "Veja como nossas soluções de IA e automação transformam empresas em todos os setores",
       "aiAutomation": {
         "title": "Automação com IA",
         "description": "Soluções de automação inteligente que otimizam seus processos empresariais e reduzem trabalho manual em até 75%"
@@ -59,9 +64,10 @@
       }
     },
     "process": {
+      "badge": "Como Trabalhamos",
       "title": "Nosso",
       "titleHighlight": "Processo",
-      "subtitle": "Do conceito à implementação, seguimos uma metodologia comprovada",
+      "subtitle": "Do conceito à implementação, seguimos um processo estruturado para garantir o sucesso do seu projeto",
       "steps": {
         "discovery": {
           "title": "Descoberta",
@@ -82,9 +88,37 @@
       }
     },
     "about": {
-      "title": "Por Que Escolher",
-      "titleHighlight": "Avynta",
-      "subtitle": "Não somos apenas desenvolvedores – somos parceiros na transformação empresarial",
+      "badge": "Por Que Escolher a Avynta",
+      "title": "Não somos apenas desenvolvedores",
+      "titleHighlight": "somos parceiros",
+      "subtitle": "Combinamos expertise técnica com visão estratégica para transformar seu negócio de verdade",
+      "innovation": {
+        "title": "Abordagem Inovadora",
+        "description": "Usamos tecnologias de ponta para resolver desafios complexos com soluções elegantes e escaláveis."
+      },
+      "speed": {
+        "title": "Implementação Rápida",
+        "description": "Nossa metodologia ágil garante entrega rápida sem comprometer qualidade ou funcionalidade."
+      },
+      "results": {
+        "title": "Resultados Mensuráveis",
+        "description": "Cada solução é projetada para entregar melhorias quantificáveis nas métricas do seu negócio."
+      },
+      "guarantee": {
+        "title": "Nossa Garantia",
+        "description": "Garantimos a qualidade e funcionamento de todas as nossas soluções. Se não ficar satisfeito, trabalhamos até que esteja.",
+        "badge": "100% Satisfação Garantida"
+      },
+      "stats": {
+        "title": "Nossos Números",
+        "projects": "Projetos Entregues",
+        "satisfaction": "Satisfação do Cliente",
+        "efficiency": "Ganho de Eficiência",
+        "support": "Suporte Disponível"
+      },
+      "technologies": {
+        "title": "Tecnologias que Dominamos"
+      },
       "features": {
         "expertise": {
           "title": "Experiência Técnica Profunda",
@@ -194,13 +228,24 @@
       }
     },
     "locations": {
+      "badge": "Presença Global",
       "title": "Onde",
       "titleHighlight": "Estamos",
       "subtitle": "Presença global com escritórios no Brasil e Portugal, atendendo clientes no mundo todo",
+      "globalReach": {
+        "title": "Alcance Global, Expertise Local",
+        "description": "Escritórios em São Paulo, Brasil e Portugal, com equipes remotas nos EUA, Canadá e países da América Latina. Atendemos clientes no mundo todo, oferecendo suporte 24/7 e soluções localizadas.",
+        "stats": {
+          "countries": "Países Atendidos",
+          "support": "Suporte Global",
+          "languages": "Idiomas",
+          "remote": "Capacidade Remota"
+        }
+      },
       "brazil": {
         "title": "Sede Brasil",
         "subtitle": "São Paulo, SP - Hub de Inovação",
-        "address": "Av. 9 de Julho, 3575 - Anhangabaú, Jundiaí - SP, 13208-056",
+        "address": "Av. 9 de Julho, 3575, Sala 308 - Anhangabaú, Jundiaí - SP, 13208-056",
         "hours": "Seg-Sex: 9:00 - 18:00 (BRT)",
         "services": {
           "title": "Serviços Principais",
@@ -212,8 +257,8 @@
       },
       "portugal": {
         "title": "Escritório Portugal",
-        "subtitle": "Lisboa - Hub Europeu",
-        "address": "Rua Augusta, 123 - Baixa, Lisboa - 1100-048",
+        "subtitle": "Almada - Hub Europeu",
+        "address": "R. 1 de Maio 3, 3o Esquerdo, 2825-095 - Monte Caparica, Almada, Portugal",
         "hours": "Seg-Sex: 9:00 - 18:00 (WET)",
         "services": {
           "title": "Serviços Técnicos e Europeus",
@@ -225,23 +270,35 @@
       }
     },
     "contact": {
-      "title": "Entre em",
+      "title": "Vamos Conversar",
       "titleHighlight": "Contato",
       "subtitle": "Pronto para transformar seu negócio? Vamos conversar sobre seu projeto e explorar como podemos ajudá-lo a alcançar seus objetivos.",
-      "name": "Seu Nome",
-      "email": "Seu Email",
-      "message": "Conte-nos sobre seu projeto...",
-      "send": "Enviar Mensagem",
-      "phone": "+55 11 3456-7890",
-      "emailAddress": "hello@avynta.com",
-      "address": "Av. Paulista, 1000 - Bela Vista, São Paulo, SP"
+      "form": {
+        "title": "Comece Hoje",
+        "nameLabel": "Nome",
+        "namePlaceholder": "Nome Completo",
+        "emailLabel": "Email",
+        "emailPlaceholder": "Endereço de Email",
+        "projectLabel": "Detalhes do Projeto",
+        "projectPlaceholder": "Conte-nos sobre seu projeto",
+        "submit": "Enviar Mensagem"
+      },
+      "connect": {
+        "title": "Vamos Conectar"
+      },
+      "next": {
+        "title": "O Que Acontece Depois?",
+        "step1": "Analisaremos os requisitos do seu projeto",
+        "step2": "Agendaremos uma chamada de descoberta em 24 horas",
+        "step3": "Forneceremos uma proposta detalhada e cronograma"
+      }
     },
     "footer": {
       "description": "Transformando empresas através de soluções de IA e automação.",
-      "quickLinks": "Links Rápidos",
-      "contact": "Contato",
+      "solutions": "Soluções",
+      "company": "Empresa",
       "followUs": "Siga-nos",
-      "copyright": " 2024 Avynta. Todos os direitos reservados."
+      "copyright": " 2025 Avynta. Todos os direitos reservados."
     }
   }
 }

@@ -10,10 +10,16 @@
       "getStarted": "Comenzar"
     },
     "hero": {
+      "badge": "Soluciones de Automatización Inteligente",
       "title": "Transforma Tu Negocio con",
-      "titleHighlight": "Inteligencia Artificial",
-      "subtitle": "Creamos soluciones que trabajan para ti mientras duermes. Chatbots que atienden clientes, sistemas que venden solos y automatizaciones que hacen crecer tu empresa.",
-      "cta": "Comenzar Ahora",
+      "animated_text": "Inteligencia Artificial",
+      "subtitle": "Creamos soluciones que trabajan para ti mientras duermes. Agentes de IA que atienden clientes, sistemas que venden solos y automatizaciones que hacen crecer tu empresa.",
+      "benefit1": "Hasta 75% de Automatización",
+      "benefit2": "100% Seguro",
+      "benefit3": "Soporte 24/7",
+      "cta": "Empezar Ahora",
+      "viewSolutions": "Ver Soluciones",
+      "projectsCount": "Resultados Probados",
       "learnMore": "Ver Soluciones",
       "techStackTitle": "Nuestro Stack Tecnológico"
     },
@@ -59,9 +65,10 @@
       }
     },
     "process": {
+      "badge": "Cómo Trabajamos",
       "title": "Nuestro",
       "titleHighlight": "Proceso",
-      "subtitle": "Desde el concepto hasta la implementación, seguimos una metodología probada",
+      "subtitle": "Del concepto a la implementación, seguimos un proceso estructurado para garantizar el éxito de tu proyecto",
       "steps": {
         "discovery": {
           "title": "Descubrimiento",
@@ -82,9 +89,37 @@
       }
     },
     "about": {
-      "title": "Por Qué Elegir",
-      "titleHighlight": "Avynta",
-      "subtitle": "No somos solo desarrolladores – somos socios en la transformación empresarial",
+      "badge": "Por Qué Elegir Avynta",
+      "title": "No somos solo desarrolladores",
+      "titleHighlight": "somos socios",
+      "subtitle": "Combinamos experiencia técnica con visión estratégica para transformar verdaderamente tu negocio",
+      "innovation": {
+        "title": "Enfoque Innovador",
+        "description": "Utilizamos tecnologías de vanguardia para resolver desafíos complejos con soluciones elegantes y escalables."
+      },
+      "speed": {
+        "title": "Implementación Rápida",
+        "description": "Nuestra metodología ágil garantiza entrega rápida sin comprometer calidad o funcionalidad."
+      },
+      "results": {
+        "title": "Resultados Medibles",
+        "description": "Cada solución está diseñada para entregar mejoras cuantificables en las métricas de tu negocio."
+      },
+      "guarantee": {
+        "title": "Nuestra Garantía",
+        "description": "Garantizamos la calidad y funcionamiento de todas nuestras soluciones. Si no estás satisfecho, trabajamos hasta que lo estés.",
+        "badge": "100% Satisfacción Garantizada"
+      },
+      "stats": {
+        "title": "Nuestros Números",
+        "projects": "Proyectos Entregados",
+        "satisfaction": "Satisfacción del Cliente",
+        "efficiency": "Ganancia de Eficiencia",
+        "support": "Soporte Disponible"
+      },
+      "technologies": {
+        "title": "Tecnologías que Dominamos"
+      },
       "features": {
         "expertise": {
           "title": "Experiencia Técnica Profunda",
@@ -194,13 +229,24 @@
       }
     },
     "locations": {
+      "badge": "Presencia Global",
       "title": "Dónde",
       "titleHighlight": "Estamos",
       "subtitle": "Presencia global con oficinas en Brasil y Portugal, sirviendo clientes en todo el mundo",
+      "globalReach": {
+        "title": "Alcance Global, Experiencia Local",
+        "description": "Oficinas en São Paulo, Brasil y Portugal, con equipos remotos en Estados Unidos, Canadá y países de LATAM. Servimos clientes en todo el mundo, brindando soporte 24/7 y soluciones localizadas.",
+        "stats": {
+          "countries": "Países Servidos",
+          "support": "Soporte Global",
+          "languages": "Idiomas",
+          "remote": "Capacidad Remota"
+        }
+      },
       "brazil": {
         "title": "Sede Brasil",
         "subtitle": "São Paulo, SP - Hub de Innovación",
-        "address": "Av. 9 de Julho, 3575 - Anhangabaú, Jundiaí - SP, 13208-056",
+        "address": "Av. 9 de Julho, 3575, Sala 308 - Anhangabaú, Jundiaí - SP, 13208-056",
         "hours": "Lun-Vie: 9:00 - 18:00 (BRT)",
         "services": {
           "title": "Servicios Principales",
@@ -212,8 +258,8 @@
       },
       "portugal": {
         "title": "Oficina Portugal",
-        "subtitle": "Lisboa - Hub Europeo",
-        "address": "Rua Augusta, 123 - Baixa, Lisboa - 1100-048",
+        "subtitle": "Almada - Hub Europeo",
+        "address": "R. 1 de Maio 3, 3o Esquerdo, 2825-095 - Monte Caparica, Almada, Portugal",
         "hours": "Lun-Vie: 9:00 - 18:00 (WET)",
         "services": {
           "title": "Servicios Técnicos y Europeos",
@@ -225,23 +271,35 @@
       }
     },
     "contact": {
-      "title": "Ponte en",
-      "titleHighlight": "Contacto",
-      "subtitle": "¿Listo para transformar tu negocio? Hablemos sobre tu proyecto y exploremos cómo podemos ayudarte a alcanzar tus objetivos.",
-      "name": "Tu Nombre",
-      "email": "Tu Email",
-      "message": "Cuéntanos sobre tu proyecto...",
-      "send": "Enviar Mensaje",
-      "phone": "+1 (555) 123-4567",
-      "emailAddress": "hello@avynta.com",
-      "address": "123 Innovation Drive, Tech Valley, CA 94000"
+      "title": "¿Listo para Transformar",
+      "titleHighlight": "Tu Negocio?",
+      "subtitle": "Hablemos sobre cómo nuestras soluciones de IA y automatización pueden generar resultados reales para tu empresa.",
+      "form": {
+        "title": "Comienza Hoy",
+        "nameLabel": "Nombre",
+        "namePlaceholder": "Nombre Completo",
+        "emailLabel": "Email",
+        "emailPlaceholder": "Dirección de Email",
+        "projectLabel": "Detalles del Proyecto",
+        "projectPlaceholder": "Cuéntanos sobre tu proyecto",
+        "submit": "Enviar Mensaje"
+      },
+      "connect": {
+        "title": "Conectemos"
+      },
+      "next": {
+        "title": "¿Qué Sucede Después?",
+        "step1": "Revisaremos los requisitos de tu proyecto",
+        "step2": "Programaremos una llamada de descubrimiento en 24 horas",
+        "step3": "Proporcionaremos una propuesta detallada y cronograma"
+      }
     },
     "footer": {
       "description": "Transformando empresas a través de soluciones de IA y automatización.",
-      "quickLinks": "Enlaces Rápidos",
-      "contact": "Contacto",
+      "solutions": "Soluciones",
+      "company": "Empresa",
       "followUs": "Síguenos",
-      "copyright": " 2024 Avynta. Todos los derechos reservados."
+      "copyright": " 2025 Avynta. Todos los derechos reservados."
     }
   }
 }
